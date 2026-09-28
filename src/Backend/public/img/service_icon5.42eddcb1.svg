@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49 55" width="49" height="55">
+	<title>벡터 고급 개체-ai</title>
+	<style>
+		.s0 { fill: #ffffff;stroke: #f92795;stroke-miterlimit:10;stroke-width: 2 } 
+		.s1 { fill: none;stroke: #f92795;stroke-linecap: round;stroke-miterlimit:10;stroke-width: 2 } 
+	</style>
+	<g id="레이어 1">
+		<path id="&lt;Path&gt;" class="s0" d="m38.8 46.1h-36.6c-0.1 0-0.2-0.1-0.2-0.3v-44c0-0.1 0.1-0.2 0.2-0.2h36.6c0.2 0 0.3 0.1 0.3 0.2v44c0 0.2-0.1 0.3-0.3 0.3z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m46.8 53.9h-36.6c-0.2 0-0.3-0.2-0.3-0.3v-44c0-0.2 0.1-0.3 0.3-0.3h36.6c0.1 0 0.3 0.1 0.3 0.3v44c0 0.1-0.2 0.3-0.3 0.3z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m29.7 29.2h-14.6c-0.2 0-0.3-0.1-0.3-0.3v-13.7c0-0.2 0.1-0.3 0.3-0.3h14.6c0.1 0 0.2 0.1 0.2 0.3v13.7c0 0.2-0.1 0.3-0.2 0.3z"/>
+		<path id="&lt;Path&gt;" class="s1" d="m14.8 34.7h27"/>
+		<path id="&lt;Path&gt;" class="s1" d="m33.8 29.2h8"/>
+		<path id="&lt;Path&gt;" class="s1" d="m33.8 23.8h8"/>
+		<path id="&lt;Path&gt;" class="s1" d="m33.8 18.5h8"/>
+		<path id="&lt;Path&gt;" class="s1" d="m14.8 40.3h27"/>
+		<path id="&lt;Path&gt;" class="s1" d="m14.8 45.8h27"/>
+	</g>
+</svg>

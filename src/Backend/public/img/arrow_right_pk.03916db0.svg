@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 12" width="13" height="12">
+	<title>Vector Smart Object-ai</title>
+	<style>
+		.s0 { fill: none;stroke: #999999;stroke-miterlimit:10 } 
+	</style>
+	<filter id="f0">
+		<feFlood flood-color="#f92795" flood-opacity="1" />
+		<feBlend mode="normal" in2="SourceGraphic"/>
+		<feComposite in2="SourceAlpha" operator="in" />
+	</filter>
+	<g id="Layer 1" filter="url(#f0)">
+		<path id="&lt;Path&gt;" class="s0" d="m6.4 0.2l5.5 5.5-5.5 5.5"/>
+		<path id="&lt;Path&gt;" class="s0" d="m11.9 5.7h-11.6"/>
+	</g>
+</svg>

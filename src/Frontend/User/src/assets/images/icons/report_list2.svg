@@ -1,0 +1,52 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 56" width="57" height="56">
+	<title>report_list2-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d=""/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m-117.37 45.33h72.96"/>
+		</clipPath>
+		<image  width="57" height="56" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA4AQMAAAB9isJjAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAqqqqE2N/7AAAAAJ0Uk5TAP9bkSK1AAAAG0lEQVR4nGNggAH2/0DwgJqMPzCTRxnkMmgGAG0IUGi4evRbAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: none;stroke: #aaaaaa;stroke-miterlimit:10;stroke-width: 2 } 
+		.s2 { fill: none;stroke: #aaaaaa;stroke-linecap: round;stroke-miterlimit:10;stroke-width: 2 } 
+	</style>
+	<g id="Layer" style="opacity: .3"> 
+		<g id="Layer">
+			<g id="Clip-Path: Clip-Path" clip-path="url(#cp1)">
+				<g id="Clip-Path">
+					<g id="Layer">
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="Layer" style="opacity: .3">
+		<g id="Layer">
+			<g id="Clip-Path: Clip-Path" clip-path="url(#cp2)">
+				<g id="Clip-Path">
+					<g id="Layer">
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<path id="Layer" class="s0" d=""/>
+	<path id="Layer" class="s0" d="m-59.4 39.5h-46.1"/>
+	<path id="Layer" class="s0" d="m42.8 46h-36.6c-0.1 0-0.2-0.1-0.2-0.3v-43.9c0-0.2 0.1-0.3 0.2-0.3h36.6q0.3 0 0.3 0.3v43.9q0 0.3-0.3 0.3z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m42.8 46h-36.6c-0.1 0-0.2-0.1-0.2-0.3v-43.9c0-0.2 0.1-0.3 0.2-0.3h36.6q0.3 0 0.3 0.3v43.9q0 0.3-0.3 0.3z"/>
+	<path id="Layer" class="s0" d="m50.8 53.8h-36.6q-0.3 0-0.3-0.3v-44c0-0.1 0.1-0.2 0.3-0.2h36.6c0.1 0 0.2 0.1 0.2 0.2v44c0 0.2-0.1 0.3-0.2 0.3z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m50.8 53.8h-36.6q-0.3 0-0.3-0.3v-44c0-0.1 0.1-0.2 0.3-0.2h36.6c0.1 0 0.2 0.1 0.2 0.2v44c0 0.2-0.1 0.3-0.2 0.3z"/>
+	<path id="Layer" class="s0" d="m33.7 29.1h-14.6q-0.3 0-0.3-0.3v-13.7c0-0.1 0.1-0.3 0.3-0.3h14.6c0.1 0 0.2 0.2 0.2 0.3v13.7c0 0.2-0.1 0.3-0.2 0.3z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m33.7 29.1h-14.6q-0.3 0-0.3-0.3v-13.7c0-0.1 0.1-0.3 0.3-0.3h14.6c0.1 0 0.2 0.2 0.2 0.3v13.7c0 0.2-0.1 0.3-0.2 0.3z"/>
+	<path id="Layer" fill-rule="evenodd" class="s2" d="m18.8 34.7h27"/>
+	<path id="Layer" fill-rule="evenodd" class="s2" d="m37.8 29.1h8"/>
+	<path id="Layer" fill-rule="evenodd" class="s2" d="m37.8 23.8h8"/>
+	<path id="Layer" fill-rule="evenodd" class="s2" d="m37.8 18.4h8"/>
+	<path id="Layer" fill-rule="evenodd" class="s2" d="m18.8 40.2h27"/>
+	<path id="Layer" fill-rule="evenodd" class="s2" d="m18.8 45.8h27"/>
+	<use id="레이어 1" href="#img1" x="0" y="0"/>
+</svg>

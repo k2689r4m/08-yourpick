@@ -1,0 +1,7 @@
+{
+    "client_id": "Yourpick-login",
+    "team_id": "T9HWB2379T",
+    "key_id": "HB4TX87Q27",
+    "redirect_uri": "https://yourpick.co.kr:3000/user/login/apple",
+    "scope": "name email"
+}

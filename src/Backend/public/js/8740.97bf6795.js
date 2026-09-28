@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadminweb"]=self["webpackChunkadminweb"]||[]).push([[8740],{8740:function(e,a,n){n.r(a),n.d(a,{default:function(){return p}});var t=n(3396);function r(e,a,n,r,u,c){const d=(0,t.up)("PayPage");return(0,t.wg)(),(0,t.j4)(d,{payType:"normal"})}var u=n(3071),c={name:"Alarm",components:{PayPage:u.Z},computed:{},data(){return{}},created(){},updated(){},methods:{}},d=n(89);const o=(0,d.Z)(c,[["render",r]]);var p=o}}]);
+//# sourceMappingURL=8740.97bf6795.js.map

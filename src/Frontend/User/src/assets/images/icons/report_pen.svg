@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83 81" width="83" height="81">
+	<title>service_order_icon4-svg</title>
+	<defs>
+		<image  width="83" height="81" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAABRCAMAAACZpGo5AAAAAXNSR0IB2cksfwAAAQtQTFRFAAAA+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeV+SeVO3ppPQAAAFl0Uk5TAAQ2B7b3OgnC//IrC8fpIg7M4hYQ0dQT1dIPGtoSHuHXIeXbFSUYKuzfLu/jHDjxID3250P46iRJ+ihP++1V/fAtYv4yafNw9Td/PI+W+UKqSMr8TlRHdFv3G13jAAABAElEQVR4nO3U2VqBcRSF8V2o/kQZEho0UIaoiAYkvjILleH+ryQ82jvn63C/F/A7Ws8i0jRN0zRNW29jE07a7I4tMLm9Y4zTBSV33WaeZw9I7nvNMp8fRgYOzKpgAEQehv5IE45gyKNjIU8w5GmUyTMQeX7B5GUMQ8Y9Ql5hyOsEk0kQmUozeZPBkNlbIe8w5H2OyTyIfCgwWXzEkE/PQr5gyFKZyQqIfK0y+VbDkHVLyHcM+cGiaYDIppCtNobs/CO7GLInpANE9oX8HGBIGgo5ApFk+1qRZRhJFPMtye8fHDk/4saCHCNJoollqmCSaGrN0CQRaJeapmmapmmLfgHLuRzLmtwTwAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: none;stroke: #f92795;stroke-miterlimit:10;stroke-width: 2 } 
+	</style>
+	<path id="Layer" class="s0" d="m9.9 10.9h41.9v58.5h-41.9z"/>
+	<path id="Layer" class="s1" d="m9.9 10.9h41.9v58.5h-41.9z"/>
+	<path id="Layer" class="s1" d="m16.8 20.2h8.3"/>
+	<path id="Layer" class="s1" d="m16.8 27.7h28.1"/>
+	<path id="Layer" class="s1" d="m16.8 35.3h28.1"/>
+	<path id="Layer" class="s1" d="m16.8 42.8h28.1"/>
+	<path id="Layer" class="s1" d="m16.8 50.3h28.1"/>
+	<path id="Layer" class="s1" d="m16.8 57.9h14.3"/>
+	<path id="Layer" class="s0" d="m36.5 57.1l7.4-1.7 26.1-26.2-5.6-5.6-26.1 26.1z"/>
+	<path id="Layer" class="s1" d="m36.5 57.1l7.4-1.7 26.1-26.2-5.6-5.6-26.1 26.1z"/>
+	<path id="Layer" class="s0" d="m70 29.2l-5.6-5.6 2.9-2.9 5.6 5.6z"/>
+	<path id="Layer" class="s1" d="m70 29.2l-5.6-5.6 2.9-2.9 5.6 5.6z"/>
+	<path id="Layer" class="s1" d="m43.9 55.4l-5.6-5.7"/>
+	<use id="레이어 1" href="#img1" x="0" y="0"/>
+</svg> 

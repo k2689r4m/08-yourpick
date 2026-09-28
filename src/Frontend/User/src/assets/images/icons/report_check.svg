@@ -1,0 +1,47 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 56" width="57" height="56">
+	<title>main_solution_icon4-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d=""/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m-117.37 45.33h72.96"/>
+		</clipPath>
+		<image  width="39" height="45" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAtCAMAAAAa5oJhAAAAAXNSR0IB2cksfwAAAV9QTFRF/yuVAAAA/xyO/yCP/yiU9CyQ9SeT9yuZ9yeT+CmY+SaT+SmX+iaS+iiW+iaX+yiV+yaW9yiT+CaW+CiT+CWW+CeW+SiV+SeW+SiV+SeW+iiV+ieV+iiV+iaV+CeU+CaV+CeU+SaV+SeU+CiV+SeV+SeU+iWU+SeV+iaV+SeV+imU/yuq/yed+SWV+CuV+SiV+SeV+SeW+CaW+ieU+iaV+SaU+SiT+SeU+CaU+CiV+imW+ieT+iWV+SqU+CeW+CaW9SmZ/ySS/yCf+CSS9yeV9yiX+yWU9iOV+yeT9iaX9CuV+iSX/yuc+SiT/yKZ+SSY/wCq+SeV8yOX+SeV+SeV+SeV+SeV+SeV+SeV/wCA+ieV+SeV+SeV+SeV+SeU+SeV+SaV+SeV+SeV+CeV+SiU+iaV+SeV+SeV+SeV+SeV+SeV+SaV+SeV+CeW+SaV+CiV+SeV+ieV+SeV+SeV+CeWIypuaAAAAHV0Uk5TDAAJEBMXGh4hJSgsLzM2Oj1AREdLTlJVWVxgY2dqbnF1eHxz/+038zX6MgYNKSShe3dyaWVYU09KRjg0MCsnIhkVCCNBID4dOxsYMRItDyoD/hb7+PXy7+wC6ef85OHe2+7Y69Xo0uXPzMrH18TUwdG89t2byzH1kAAAAThJREFUeJyN0lVXglEQheE5gKKCAjaoWIjx2a0oISJ2AjZhIQbm/1+61py5nTnv1b54LjeAUjawO2pqnXX1DS53Y5PH62tuaW1r7+j0B7q6e4K9ff0Dgwo8IYOGFIRN3LCCERM3qmDMxIUUuI2cBS4jNw4TRs4BkzSnpmdmg3PzAf/C4tLyis+7Gllbj8ac8YQdNpSCJLlNxQUpclu8S5Pb5t0OuTDvdslFeJcgt8e7fXIHvDskd8Q7IBflnY1ckncWuRTvjsmleafIxQV3ot2p4M7oYoLLaGcXXFY7EFxOO5vgzrWzBHeh3aXgrrRj2b+7RnYjuVt0Gcnl0WUlV0CXk1wRXUlyd+juJfeA7lFyT+jKkntGl5dcBV1Bci/oipJ7RfcmuXd0Vcl9oPuU3Nd3qfxTrfzy7g++e2zEuHHvigAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: none;stroke: #f92795;stroke-miterlimit:10;stroke-width: 2 } 
+		.s2 { fill: none;stroke: #f92795;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+		.s3 { fill: none;stroke: #f92795;stroke-linecap: round;stroke-miterlimit:10;stroke-width: 2 } 
+	</style>
+	<g id="Layer" style="opacity: .3">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<g id="Layer">
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="Layer" style="opacity: .3">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<g id="Layer">
+				</g>
+			</g>
+		</g>
+	</g>
+	<path id="Layer" class="s0" d=""/>
+	<path id="Layer" class="s0" d="m-59.4 39.5h-46.1"/>
+	<path id="Layer" class="s0" d="m42.8 46.1h-36.6c-0.1 0-0.2-0.2-0.2-0.3v-44c0-0.2 0.1-0.3 0.2-0.3h36.6c0.2 0 0.3 0.1 0.3 0.3v44c0 0.1-0.1 0.3-0.3 0.3z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m42.8 46.1h-36.6c-0.1 0-0.2-0.2-0.2-0.3v-44c0-0.2 0.1-0.3 0.2-0.3h36.6c0.2 0 0.3 0.1 0.3 0.3v44c0 0.1-0.1 0.3-0.3 0.3z"/>
+	<path id="Layer" class="s0" d="m50.8 53.8h-36.6c-0.2 0-0.3-0.1-0.3-0.3v-43.9c0-0.2 0.1-0.3 0.3-0.3h36.6c0.1 0 0.2 0.1 0.2 0.3v43.9c0 0.2-0.1 0.3-0.2 0.3z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m50.8 53.8h-36.6c-0.2 0-0.3-0.1-0.3-0.3v-43.9c0-0.2 0.1-0.3 0.3-0.3h36.6c0.1 0 0.2 0.1 0.2 0.3v43.9c0 0.2-0.1 0.3-0.2 0.3z"/>
+	<path id="Layer" class="s0" d="m41.4 24.7c0 4.9-4 8.9-8.9 8.9-5 0-9-4-9-8.9 0-5 4-9 9-9 4.9 0 8.9 4 8.9 9z"/>
+	<path id="Layer" class="s1" d="m32.5 33.6c-5 0-9-4-9-8.9 0-5 4-9 9-9 4.9 0 8.9 4 8.9 9 0 4.9-4 8.9-8.9 8.9z"/>
+	<path id="Layer" class="s0" d="m28.8 25.6l2.3 2.2 5-4.7"/>
+	<path id="Layer" class="s2" d="m28.8 25.6l2.3 2.2 5-4.7"/>
+	<path id="Layer" class="s3" d="m19 40.2h27"/>
+	<path id="Layer" class="s3" d="m19 45.8h27"/>
+	<use id="레이어 1" href="#img1" x="5" y="1"/>
+</svg>
